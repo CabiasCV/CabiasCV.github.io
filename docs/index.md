@@ -1,5 +1,5 @@
 # Cabias, Alexander Lloyd M.
-![Image](<p>/docs/asset/image/face.jpg</p>)
+![Image](/docs/asset/image/face.jpg)
 ## BSIT  
 >### Contact Info
 >**Phone Number**  
