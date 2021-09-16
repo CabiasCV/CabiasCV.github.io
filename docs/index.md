@@ -14,7 +14,8 @@ To secure a challenging position in a reputable organization to expand my learni
 
 ## EDUCATION:
 > 2017- 2021 	-STI College (Marikina) -BSIT  
-> 2014- 2017 	-Nuestra Senora de Aranzazu Parochial School -High School Diploma
+> 2014- 2017 	-Nuestra Senora de Aranzazu Parochial School -High School Diploma  
+
 ## WORK EXPERIENCE:
 --
 ## TECHNICAL SKILLS:
