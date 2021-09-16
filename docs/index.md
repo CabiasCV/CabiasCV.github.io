@@ -13,3 +13,20 @@
 To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills. I would be able to provide the company another cog in the workforce that is aiming and willing to try their best in fulfilling the given tasks.    
 
 ## EDUCATION:
+| Date       	| School                                      	| Attainment          	|
+|------------	|---------------------------------------------	|---------------------	|
+| 2017- 2021 	| STI College (Marikina)                      	| BSIT                	|
+| 2014- 2017 	| Nuestra Senora de Aranzazu Parochial School 	| High School Diploma 	|
+## WORK EXPERIENCE:
+--
+## TECHNICAL SKILLS:
+- Unity 
+- Visual Studio
+- JavaScript
+- C#
+- Photo Editing
+- Video Editing
+## PERSONAL BACKGROUND:
+I am a fresh Graduate of STI College Marikina experienced in coding in C# and using Unity and Visual Studio, Video and Photo editing game design and Microsoft Office. For my thesis we made an Android game, a mobile platformer where I was the Programmer and Game Designer.
+## REFERENCES:
+“Available upon request.”
