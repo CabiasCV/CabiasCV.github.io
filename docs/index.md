@@ -10,10 +10,10 @@
 
 
 
-# Cabias, Alexander Lloyd M.
+<h1>Cabias, Alexander Lloyd M.</h1>
 <br><center>
 <b>
-<h1>BSIT</h1>
+<h2>BSIT</h2>
 </b>
 </center><br>
 <div class="imageContainer">
