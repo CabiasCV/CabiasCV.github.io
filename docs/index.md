@@ -1,5 +1,5 @@
 # Cabias, Alexander Lloyd M.
-![my PIc](/docs/face.jpg "Shiprock, New Mexico by Beau Rogers")
+[![my PIc](/docs/face.jpg "Shiprock, New Mexico by Beau Rogers")](https://github.com/CabiasCV/CabiasCV.github.io/blob/main/docs/face.jpg)
 ## BSIT  
 >### Contact Info
 >**Phone Number**  
