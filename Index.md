@@ -78,7 +78,7 @@
 
 <p5>TECHNICAL SKILLS:</p5> 
 <br>
-<p style = "color:white;">Unity, Visual Studio, JavaScript, C#, Photo Editing, Video Editing</p>
+<p style = "color:white;">Unity, Visual Studio, C#, Photo Editing, Video Editing</p>
 <br>
 
 <p5>PERSONAL BACKGROUND:</p5> 
