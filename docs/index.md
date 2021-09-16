@@ -12,4 +12,4 @@
 ## OBJECTIVE:
 To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills. I would be able to provide the company another cog in the workforce that is aiming and willing to try their best in fulfilling the given tasks.    
 
-##EDUCATION:
+###EDUCATION:
