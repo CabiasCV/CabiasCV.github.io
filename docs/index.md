@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+
 <html> 
 
  
@@ -10,7 +10,7 @@ theme: jekyll-theme-slate
 
 
 
-#Cabias, Alexander Lloyd M.
+# Cabias, Alexander Lloyd M.
 <br><center>
 <b>
 <h1>BSIT</h1>
