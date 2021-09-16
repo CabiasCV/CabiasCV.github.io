@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+theme: jekyll-theme-slate
 <html> 
 
  
