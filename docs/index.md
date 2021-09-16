@@ -10,7 +10,7 @@ theme: jekyll-theme-slate
 
 
 
-<header><strong>Cabias, Alexander Lloyd M.</strong></header>
+#Cabias, Alexander Lloyd M.
 <br><center>
 <b>
 <h1>BSIT</h1>
