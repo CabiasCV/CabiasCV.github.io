@@ -1,0 +1,23 @@
+body {background-image:url("BGimg.jpg"); background-repeat: repeat;}
+header 	{color: white;text-align: center;font-family: verdana;font-size: 300%;margin-top: 50px;}
+h1 	{color: white;text-align: center;font-family: verdana;font-size: 200%;}
+a   	{color: white;font-family: verdana;margin-left: 20px;margin-bottom: 80px;font-style}
+p1    	{color: white;font-size: 125%;font-family: verdana;font-weight:bold;margin-left: 20px;margin-bottom: 80px;}
+p2    	{color: white;font-family: verdana;margin-left: 20px;margin-bottom: 80px;}
+p3    	{color: white;font-size: 150%;font-family: verdana;font-weight:bold;margin-left: 20px;margin-bottom: 80px;}
+p4    	{color: black;font-size: 125%;font-family: verdana;font-weight:bold;margin-left: 20px;margin-bottom: 80px;}
+p5    	{color: white;font-size: 125%;font-family: verdana;font-weight:bold;margin-left: 20px;margin-bottom: 80px;background-image:linear-gradient(to left, black, transpa);padding:10px;}
+p       {color:Black;font-family: verdana;margin-bottom:10px;margin-left:30px;}
+.cntct 	{border-radius: 25px;opacity: 0.8;background-color:black;background-image: linear-gradient(to right,black, #A7A7A7);margin-top: 10px;margin-bottom: 10px;margin-right: 150px;margin-left: 80px;}
+.obj 	{border-radius: 25px;black;background-image: linear-gradient(to right,#A7A7A7, white, #A7A7A7);,text-align:center;background-color:white;margin-top: 10px;margin-bottom: 50px;margin-right: 80px;margin-left: 50px;}
+table, th, td {border: 1px #A7A7A7; border-radius: 10px;}
+table 	{border-spacing: 30px;}
+th, td 	{padding: 15px;}
+tr:nth-child(odd) 	{background-color: #4B4B4B;}
+tr:nth-child(even) {background-color: #838383;}
+img:hover {
+  -webkit-transform: scale(1.5,1.5);
+
+}
+.INFO	{border-radius: 25px;background-color:#A7A7A7;background-image: linear-gradient(to right,black, #A7A7A7)}
+.educ	{border-radius: 25px;background-color:black;background-image: linear-gradient(to left,black, #A7A7A7)}
