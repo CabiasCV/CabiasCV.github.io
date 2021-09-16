@@ -24,8 +24,8 @@ To secure a challenging position in a reputable organization to expand my learni
 - JavaScript
 - C#
 - Photo Editing
-- Video Editing
+- Video Editing  
 ## PERSONAL BACKGROUND:
-I am a fresh Graduate of STI College Marikina experienced in coding in C# and using Unity and Visual Studio, Video and Photo editing game design and Microsoft Office. For my thesis we made an Android game, a mobile platformer where I was the Programmer and Game Designer.
+I am a fresh Graduate of STI College Marikina experienced in coding in C# and using Unity and Visual Studio, Video and Photo editing game design and Microsoft Office. For my thesis we made an Android game, a mobile platformer where I was the Programmer and Game Designer.  
 ## REFERENCES:
 “Available upon request.”
